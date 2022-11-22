@@ -1,0 +1,27 @@
+* {
+			margin: 0;
+  }
+img {
+			
+			height:60%;
+			width: 100%;
+			
+		}
+#A {
+				background-color: yellow;
+				color: red;
+				margin-bottom:10px;
+}
+body {
+					
+					background-color: purple;
+}
+				
+.C {
+						background-color: yellow;
+						width: 20%;
+						height: 100%;
+						color: red;
+						padding-top: 0px;
+}
+
